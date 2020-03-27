@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="cw_alerts" name="cw_alerts">c25cfb95db33330088ad2706ca961928</contains>
+        <role display_value="user" name="user">b05926fa0a0a0aa7000130023e0bde98</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 16:17:41</sys_created_on>
+        <sys_id>5a5cfb95db33330088ad2706ca961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cw_alerts.user</sys_name>
+        <sys_package display_value="CW Alerts" source="x_397387_cw_alerts">162b7b51db33330088ad2706ca9619d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CW Alerts">162b7b51db33330088ad2706ca9619d5</sys_scope>
+        <sys_update_name>sys_user_role_contains_5a5cfb95db33330088ad2706ca961940</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 16:17:41</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

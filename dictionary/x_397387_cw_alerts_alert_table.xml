@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Alert Table" max_length="40" name="x_397387_cw_alerts_alert_table" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="ID" max_length="200" name="id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="KPI ID" max_length="200" name="kpi_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Level" max_length="100" name="level" type="string"/>
+        <element label="Notes" max_length="4000" name="msg" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Ticket" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Producer" max_length="200" name="producer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State" max_length="200" name="state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Time" max_length="40" name="time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="UUID" max_length="200" name="uuid" type="string"/>
+    </element>
+</database>

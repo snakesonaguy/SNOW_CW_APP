@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Alert Tables">f55cbb95db33330088ad2706ca9619a8</category>
+        <columns>id,kpi_id,level,number,producer,state,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on,time,uuid</columns>
+        <condition/>
+        <groups/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 16:17:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>755cbb95db33330088ad2706ca9619ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CW Alerts" source="x_397387_cw_alerts">162b7b51db33330088ad2706ca9619d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CW Alerts">162b7b51db33330088ad2706ca9619d5</sys_scope>
+        <sys_update_name>sys_aw_list_755cbb95db33330088ad2706ca9619ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 16:17:40</sys_updated_on>
+        <table>x_397387_cw_alerts_alert_table</table>
+        <title>All</title>
+        <workspace display_value="CW Alerts">555c7b95db33330088ad2706ca961957</workspace>
+    </sys_aw_list>
+</record_update>
